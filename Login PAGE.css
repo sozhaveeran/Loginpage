@@ -1,0 +1,97 @@
+.loginpage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.container{
+   display: flex;
+   flex-direction:column;
+   border: 1px solid red;
+   border-radius: 2px;
+   padding: 10px;
+   width: 450px;
+   height: 300px;
+   
+}
+
+.sign{
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+.mail{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.pass{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    justify-content: space-between;
+}
+
+.s1s2{
+    margin-bottom: 1px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign_button input{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgb(226, 226, 95);
+}
+
+.word{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.check_box{
+    margin-bottom: 10px;
+}
+
+.new_to{
+    color: gray;
+    text-align: center;
+    height: 1px;
+    background-color: gray;
+
+}
+
+.new_to span{
+    position: relative;
+    top: -10px;
+    background-color: white;
+    padding: 3px;
+    
+}
+
+
+
+.creat_account{
+    text-align: center;
+    margin-top: 20px;
+}
+.blue{
+    color: rgb(101, 101, 230);
+}
+
+.s2{
+    font-weight: normal;color: rgb(101, 101, 213);
+
+}
+   
+   
